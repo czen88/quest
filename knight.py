@@ -6,13 +6,6 @@ Created on Fri Aug 16 15:07:39 2019
 @author: igor
 """
 
-# ASSUMPTIONS
-# Python 3 is installed
-# Board size is 8 x 8
-# Invalid input will result in error message
-# Lowercase input is converted to uppercase
-# Enter exit to stop execution
-
 from functools import reduce
 import re
       
